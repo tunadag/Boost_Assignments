@@ -24,6 +24,7 @@ public class EtiyopyaCarpimi {
 			b = b*2;
 		}
 		while (a>0);
+		
 		System.out.println(list);
 		for (int i=0; i <= list.size()-1; i++) {
 			sum += list.get(i); 
